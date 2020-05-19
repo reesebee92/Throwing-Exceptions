@@ -1,0 +1,15 @@
+Assignment 9
+
+This programming assignment involves learning about some of the common exceptions that occur in Java programs. Consider the following exception types:
+
+NullPointerException 
+ArrayIndexOutOfBoundsException
+ClassCastException 
+IllegalArgumentException
+
+Research what each exception type means and the conditions under which each occurs (i.e., is thrown). Write programs that demonstrate each type of exception being thrown (one program per exception) and provide a screen capture of the output. Name your programs as follows:
+
+NullPointerExceptionThrown, etc.
+
+Then, write a program that catches each type of thrown exception and display an error message indicating some of the details as to what that exception is. Write one program per type of exception. Name your programs as follows: NullPointerExceptionCatch, etc.
+
